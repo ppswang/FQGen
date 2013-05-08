@@ -1,0 +1,5 @@
+# This is configuration file for FQGenerator
+src_genome=ecoli.fa
+read_depth=100
+paired_reads=true
+phylogeny=(A:0.5,(B:0.1,C:0.2),D:0.2)
